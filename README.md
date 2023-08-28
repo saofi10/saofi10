@@ -1,5 +1,5 @@
 - 🐺 Hi, I’m @saofi10
-- 👀 I’m interested in Data and IA
+- 👀 I’m interested in Data and AI
 - 🌱 I’m currently learning HTML, CSS, Big Data
 - 💞️ I’m volunteering in @freeCodeCamp as a translator
 - 🐛 I’m looking forward to collaborate in jobs as a data scientist!
